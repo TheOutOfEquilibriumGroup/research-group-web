@@ -1,5 +1,6 @@
 ---
-title: A Project
+title: Active Emma Project
+status: active
 
 description: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
@@ -7,11 +8,8 @@ description: |
   fames ac turpis egestas.
 
 people:
-  - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
+  - Emma
+  - collab-jerome
 
 layout: project
 last-updated: 2015-05-05
